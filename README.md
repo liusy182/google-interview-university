@@ -2,27 +2,9 @@
 
 Translations: [中文版本](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
 
-## What is it?
-
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer.
-
-![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
-
-This long list has been extracted and expanded from **Google's coaching notes**, so these are the things you need to know.
-There are extra items I added at the bottom that may come up in the interview or be helpful in solving a problem. Many items are from
-Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected
-sometimes word-for-word in Google's coaching notes.
-
----
 
 ## Table of Contents
 
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Get in a Googley Mood](#get-in-a-googley-mood)
-- [Did I Get the Job?](#did-i-get-the-job)
-- [Follow Along with Me](#follow-along-with-me)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Google](#about-google)
 - [About Video Resources](#about-video-resources)
@@ -160,36 +142,6 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 `git rebase jwasham/master `
 
-`git push --force `
-
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-## Get in a Googley Mood
-
-Print out a "[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" sign (or two) and keep your eyes on the prize.
-
-[![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
-
-## Did I Get the Job?
-
-I haven't applied yet.
-
-Right now I'm doing programming problems all day long. That will continue for a few weeks, and then I'll
-apply through a referral I've been holding onto since February (yes, February).
-
-    Thanks for the referral, JP.
-
-## Follow Along with Me
-
-I'm on the journey, too. Follow along:
- 
-- **Blog**: [GoogleyAsHeck.com](https://googleyasheck.com/)
-- Twitter: [@googleyasheck](https://twitter.com/googleyasheck)
-- Twitter: [@StartupNextDoor](https://twitter.com/StartupNextDoor)
-- Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
-- LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)
-
-![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
 
 ## Don't feel you aren't smart enough
 - Google engineers are smart, but many have an insecurity that they aren't smart enough, even though they work at Google.
