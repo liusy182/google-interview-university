@@ -75,16 +75,6 @@ Read more about choices:
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
-## Before you Get Started
-
-This list grew over many months, and yes, it kind of got out of hand.
-
-Here are some mistakes I made so you'll have a better experience.
-
-### 1. You Won't Remember it All
-
-I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
-through my notes and making flashcards so I could review (see below).
 
 ### 2. Use Flashcards
 
@@ -107,16 +97,6 @@ It's user friendly, available on all platforms and has a cloud sync system. It c
 
 My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya))
 
-### 3. Review, review, review
-
-I keep a set of cheat sheets on ASCII, OSI stack, Big-O notations, and more. I study them when I have some spare time.
-
-Take a break from programming problems for a half hour and go through your flashcards.
-
-### 4. Focus
-
-There are a lot of distractions that can take up valuable time. Focus and concentration is hard.
-
 ## What you won't see covered
 
 This big list all started as a personal to-do list made from Google interview coaching notes. These are prevalent
@@ -128,31 +108,10 @@ technologies but were not mentioned in those notes:
 
 ## The Daily Plan
 
-Some subjects take one day, and some will take multiple days. Some are just learning with nothing to implement.
-
-Each day I take one subject from the list below, watch videos about that subject, and write an implementation in:
-- C - using structs and functions that take a struct * and something else as args.
-- C++ - without using built-in types
-- C++ - using built-in types, like STL's std::list for a linked list
-- Python - using built-in types (to keep practicing Python)
-- and write tests to ensure I'm doing it right, sometimes just using simple assert() statements
-- You may do Java or something else, this is just my thing.
-
-Why code in all of these?
-- Practice, practice, practice, until I'm sick of it, and can do it with no problem (some have many edge cases and bookkeeping details to remember)
-- Work within the raw constraints (allocating/freeing memory without help of garbage collection (except Python))
-- Make use of built-in types so I have experience using the built-in tools for real-world use (not going to write my own linked list implementation in production)
-
-I may not have time to do all of these for every subject, but I'll try.
-
 You can see my code here:
  - [C] (https://github.com/jwasham/practice-c)
  - [C++] (https://github.com/jwasham/practice-cpp)
  - [Python] (https://github.com/jwasham/practice-python)
-
-You don't need to memorize the guts of every algorithm.
-
-Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
 
 ## Prerequisite Knowledge
 
